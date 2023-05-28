@@ -1,4 +1,4 @@
-# assessment1
+# Kafka
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
